@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> Hi there 👋, I'm Srujana Prabhu</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate web developer👩🏻‍💻</h3>
 
 <p align="center"><img  alt="coding" width="400px" src="https://github.com/srujanaa6/srujanaa6/assets/108930902/4b3d5b09-d5c1-4640-af2c-38630dbbec74"/></p>
 
