@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujanaa6&label=Profile%20views&color=0e75b6&style=flat" alt="srujanaa6" /> </p>
 
-- 🔭 I’m currently doing **Engineering in Information Technology**
+- 🔭 I’m currently persuing **Engineering in Information Technology**
 
 - 🌱 I’m currently learning **.Net,Node.js,Mongo db**
 
